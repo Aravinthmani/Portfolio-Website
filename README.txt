@@ -1,30 +1,38 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Website
 
+Welcome to my portfolio website! This project showcases my skills, projects, and professional journey as I build expertise in data analysis, machine learning, and web development.
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## About the Project
+This portfolio website serves as a central hub for my personal and professional work, including:
+- Showcasing completed projects
+- Displaying my technical skills and areas of expertise
+- Sharing my professional background and experience
 
-(* = not included)
+The website is built to provide an engaging and interactive user experience while highlighting my technical skills.
 
-AJ
-aj@lkn.io | @ajlkn
+## Features
+- **Responsive Design**: Works well on various devices (mobile, tablet, and desktop).
+- **Projects Section**: Displays a list of projects with descriptions, technologies used, and GitHub links.
+- **About Me**: A section dedicated to my background, skills, and career goals.
+- **Contact Form**: Allows users to connect with me directly from the website.
 
+## Technologies Used
+- **HTML5** and **CSS3** for structure and styling
+- **JavaScript** for interactivity
+- **GitHub Pages** for hosting
+- **Font Awesome** for icons
 
-Credits:
+## Installation
+To run this project locally:
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aravinthmani/Portfolio-Website.git
